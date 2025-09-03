@@ -23,20 +23,6 @@ Developing a dashboard according to the stakeholder mock-up.
 
 Creating additional insights beyond the provided mock-up dashboard.
 
-# Provided Resources:
-
-Mock-up Dashboard
-
-Data Model
-
-Overall Analysis View
-
-Monthly Analysis View
-
-Key Learnings from the Project
-
-Built a Calendar Visual using a matrix table for flexible analysis.
-
 # Understood hotel cancellation policies:
 
 Most hotels charge zero fee if cancelled 3 months prior to booking.
